@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node src/server.js",
-    "dev" : "NODE_ENV=development node --watch src/server.js",
+    "dev": "NODE_ENV=development node --watch src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -17,6 +17,6 @@
     "express": "^4.19.2",
     "express-rate-limit": "^7.4.1",
     "helmet": "^7.2.0",
-    "rettiwt-api": "^6.0.8"
+    "rettiwt-api": "^6.2.1"
   }
 }
